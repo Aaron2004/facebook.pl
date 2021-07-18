@@ -19,7 +19,6 @@ print color("bold green"), "\n", q "
 |+###Facebook: facebook/teclamp  ###+|
 |  +###Date: 17/09/2017  ###+ ", "\n";
 
-print "\nEnter [Username or Email or Account ID ]: 
 print "\nEnter [Username or Email or Account ID ]:"https://www.facebook.com/romario.lopezluna" 
 		                         └─► ";
 chomp ( my $user = <STDIN> );
